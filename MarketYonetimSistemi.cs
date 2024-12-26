@@ -1,4 +1,12 @@
-﻿using System;
+/*
+Bir market yönetim sistemi geliştirmenizi istiyorum. Fikir olması açısından: Ürunler, müşteriler (bireysel müşteri, kurumsal müşteri), 
+ödeme (kredi kartı, nakit, havale), sepet, indirim ( yüzdelik indirim, sabit indirim), sipariş (onaylandı, hazırlanıyor, teslim edildi) 
+gibi yapılar olmalıdır. Arayüz kısmı benim için mühim değil. Önemli olan dönem boyunca öğrendiğimiz kodlama yapılarını kullanmış olmanızdır. 
+Özellikle kalıtım, polimorfizm, abstract classlar ve try-catch yapılarının kullanılmadığı ödevler kabul edilmeyecektir. 
+Ödev son uygulama ödeviniz olacak süresiz paylaşıyorum ve sizin hayal gücünüze bırakıyorum. İyi çalışmalar.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
